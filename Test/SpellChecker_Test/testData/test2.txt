@@ -1,0 +1,22 @@
+word
+===
+worm
+warm
+wordd wword  wwordd worddd wwword
+wwoord wooord woorrd
+wor
+ord
+wo
+rd
+wwwword wordddd wwoooord wwooord
+===
+word
+{warm?}
+word word  word word word
+word word word
+word
+word
+{wo?}
+{rd?}
+{wwwword?} {wordddd?} {wwoooord?} {wwooord?}
+
